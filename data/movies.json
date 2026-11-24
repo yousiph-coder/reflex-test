@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "year": 2010,
+    "genre": "Sci-Fi",
+    "tagline": "Your mind is the scene of the crime.",
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "durationMinutes": 148,
+    "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page"],
+    "ratings": {
+      "score": 8.8,
+      "votes": 2450000,
+      "source": "IMDb"
+    },
+    "streamUrl": "https://stream.cinetest.local/hls/inception_master.m3u8",
+    "posterUrl": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=500&q=80"
+  },
+  {
+    "id": 2,
+    "title": "Interstellar",
+    "year": 2014,
+    "genre": "Sci-Fi",
+    "tagline": "Mankind was born on Earth. It was never meant to die here.",
+    "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft along with a team of researchers.",
+    "durationMinutes": 169,
+    "cast": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain"],
+    "ratings": {
+      "score": 8.7,
+      "votes": 1980000,
+      "source": "IMDb"
+    },
+    "streamUrl": "https://stream.cinetest.local/hls/interstellar_master.m3u8",
+    "posterUrl": "https://images.unsplash.com/photo-1506703719100-a0f3a48c0f86?w=500&q=80"
+  },
+  {
+    "id": 3,
+    "title": "The Dark Knight",
+    "year": 2008,
+    "genre": "Action",
+    "tagline": "Why so serious?",
+    "description": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "durationMinutes": 152,
+    "cast": ["Christian Bale", "Heath Ledger", "Aaron Eckhart"],
+    "ratings": {
+      "score": 9.0,
+      "votes": 2850000,
+      "source": "IMDb"
+    },
+    "streamUrl": "https://stream.cinetest.local/hls/dark_knight_master.m3u8",
+    "posterUrl": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=500&q=80"
+  },
+  {
+    "id": 4,
+    "title": "Blade Runner 2049",
+    "year": 2017,
+    "genre": "Sci-Fi",
+    "tagline": "The key to the future is finally unearthed.",
+    "description": "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
+    "durationMinutes": 164,
+    "cast": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"],
+    "streamUrl": "https://stream.cinetest.local/hls/bladerunner2049_master.m3u8",
+    "posterUrl": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=500&q=80"
+  },
+  {
+    "id": 5,
+    "title": "Dune: Part Two",
+    "year": 2024,
+    "description": "Paul Atreides unites with Chani and the Fremen while seeking revenge against the conspirators who destroyed his family.",
+    "durationMinutes": 166,
+    "cast": ["Timothée Chalamet", "Zendaya", "Rebecca Ferguson"],
+    "ratings": {
+      "score": 8.6,
+      "votes": 480000,
+      "source": "IMDb"
+    },
+    "streamUrl": "https://stream.cinetest.local/hls/dune2_master.m3u8",
+    "posterUrl": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=500&q=80"
+  },
+  {
+    "id": 6,
+    "title": "Oppenheimer",
+    "year": 2023,
+    "genre": "Biography",
+    "tagline": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "description": "The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.",
+    "durationMinutes": 180,
+    "cast": ["Cillian Murphy", "Emily Blunt", "Matt Damon"],
+    "ratings": {
+      "score": 8.9,
+      "votes": 720000,
+      "source": "IMDb"
+    },
+    "posterUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=500&q=80"
+  }
+]

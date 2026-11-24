@@ -1,0 +1,26 @@
+{
+  "name": "cinetest",
+  "version": "1.0.0",
+  "description": "CineTest - QA & Autonomous SRE Benchmark Streaming App with Controlled Bug Injections",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "cinetest",
+    "sre-testing",
+    "reflex",
+    "self-healing",
+    "qa"
+  ],
+  "author": "Reflex SRE Team",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.0"
+  }
+}
